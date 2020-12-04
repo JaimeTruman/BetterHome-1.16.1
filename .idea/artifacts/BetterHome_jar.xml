@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BetterHome:jar">
+    <output-path>C:/xampp/htdocs/descargas</output-path>
+    <root id="archive" name="BetterHome.jar">
+      <element id="module-output" name="BetterHome" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
